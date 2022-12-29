@@ -1,4 +1,4 @@
-# jsFireworkds
+# jsFireworks
 Javascript particles simulation with mouse events 
 
 Mouse Events:
