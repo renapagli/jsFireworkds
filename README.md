@@ -6,4 +6,4 @@ Left click : attractor,
 Right click: repulsor,
 Wheel: Time dilation
 
-Live demo <a href='https://renapagli.github.io/jsFireworks/'>here</a>
+Live demo <a target='_blank' href='https://renapagli.github.io/jsFireworks/'>here</a>
